@@ -1,0 +1,10 @@
+{
+    "terminal.integrated.allowMnemonics": true,
+    "terminal.explorerKind": "external"
+
+    "html.autoClosingTags": false,
+    "html.format.enable": true,
+    "html.validate.scripts": true,
+    "html.suggest.html5": true,
+    "html.format.extraLiners": ""
+}

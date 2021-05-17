@@ -3,7 +3,7 @@
     "terminal.explorerKind": "external"
 
     "html.autoClosingTags": false,
-    "html.format.enable": true,
+    "html.format.enable": false,
     "html.validate.scripts": true,
     "html.suggest.html5": true,
     "html.format.extraLiners": ""
